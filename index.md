@@ -247,9 +247,9 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<h1> Github's Status </h1>
+<h2> Github's Status </h2>
 
-  <p align="center">
+<p align="center">
    <a href="https://github.com/adamavip">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamavip&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamavip&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
@@ -262,6 +262,6 @@ Here are some ideas to get you started:
     alt="snake" />
 </div>
 
-## Happy Coding! 😊
+<h3> Happy Coding! 😊 </h3>
 
 <p align="center"><a href="#"><img src="./img/footer.gif"></a></p>
