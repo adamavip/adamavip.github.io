@@ -3,9 +3,7 @@
   <h1>Hi<img width="30rem" src="./img/waving.gif">, I'm Dr. Adama NDOUR</h1>
   <h3>A Data scientist and a passionate full-stack web developer.</h3>
 </div>
-
-<div>
-  <samp>
+</br>
 
 * 🌱 I’m currently working **at ICRISAT** <img align="right" style="width:20rem; height:auto" src="./img/code-dev2.gif"/>
 
@@ -22,8 +20,7 @@
 * 💬 Ask me about **Plant Phenotyping and modeling of complex systems 😆**
 
 * ⚡ Fun fact: **It’s all 0’s and 1’s**
-  </samp>
-</div>
+<br/>
 
 
 <br />
