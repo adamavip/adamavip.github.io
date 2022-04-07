@@ -7,22 +7,22 @@
 <div>
   <samp>
 
-* 🌱 I’m currently working **at ICRISAT** <img align="right" style="width:20rem; height:auto" src="./img/code-dev2.gif"/>
+  * 🌱 I’m currently working **at ICRISAT** <img align="right" style="width:20rem; height:auto" src="./img/code-dev2.gif"/>
 
-* 🔭 I’m currently working on **machine learning, deep learning and signal processing** projects
+  * 🔭 I’m currently working on **machine learning, deep learning and signal processing** projects
 
-* 🌱 I’m currently learning JavaScript Frameworks such as **React, Redux and Node.js** 
+  * 🌱 I’m currently learning JavaScript Frameworks such as **React, Redux and Node.js** 
 
-* 👯 I’m looking to collaborate on JavaScript, React, and AI end-to-end projects.
+  * 👯 I’m looking to collaborate on JavaScript, React, and AI end-to-end projects.
 
-* 🤝 I’m looking for help in developing **machine learning web applications**
+  * 🤝 I’m looking for help in developing **machine learning web applications**
 
-* 👨‍💻 All of my projects are available at [Github](https://github.com/adamavip)
+  * 👨‍💻 All of my projects are available at [Github](https://github.com/adamavip)
 
-* 💬 Ask me about **Plant Phenotyping and modeling of complex systems 😆**
+  * 💬 Ask me about **Plant Phenotyping and modeling of complex systems 😆**
 
-* ⚡ Fun fact: **It’s all 0’s and 1’s**
-  </samp>
+  * ⚡ Fun fact: **It’s all 0’s and 1’s**
+    </samp>
 </div>
 
 <!--
