@@ -97,7 +97,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### 🍗 Machine Learning / Deep Learning
+<h3>🍗 Machine Learning / Deep Learning</h3>
  <a href="#">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=whitehttps://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="keras"/>
@@ -247,7 +247,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-# Github's Status
+<h1> Github's Status </h1>
 
   <p align="center">
    <a href="https://github.com/adamavip">
@@ -255,7 +255,6 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamavip&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
   </a>
 </p>
-</h3>
 
 
 <div align="center">
